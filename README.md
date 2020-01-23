@@ -1,4 +1,4 @@
-# MDLAMMPS-
+# MDLAMMPS
 
 With a lammps trajectory file "File.lammpstrj"
 
